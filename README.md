@@ -1,1 +1,3 @@
-# My-Portfolio
+# Joel Lewis 
+Frontend Developer | HTML, CSS,   JavaScript
+
